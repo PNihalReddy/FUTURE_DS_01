@@ -117,6 +117,9 @@ FUTURE_DS_01
 ├── dashboard
 │   └── Business_Sales_Analytics.pbix
 │
+├── report
+│   └── Business Sales Analytics Report.pdf
+│
 ├── screenshots
 │   ├── category_details.png
 │   ├── full_dashboard.png
@@ -136,6 +139,7 @@ FUTURE_DS_01
 * Exploratory Data Analysis (EDA)
 * Business Insights & Recommendations
 * Interactive Power BI Dashboard
+* Business Analytics Report (PDF)
 * GitHub Documentation
 
 ---
