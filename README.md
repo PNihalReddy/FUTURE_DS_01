@@ -62,12 +62,6 @@ The dataset contains information about:
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard_final.png)
-
----
-
 ## 📈 Key Findings
 
 ### Revenue Trend
@@ -124,7 +118,11 @@ FUTURE_DS_01
 │   └── Business_Sales_Analytics.pbix
 │
 ├── screenshots
-│   └── dashboard_final.png
+│   ├── category_details.png
+│   ├── full_dashboard.png
+│   ├── key_statistics.png
+│   ├── region_details.png
+│   └── slicers.png
 │
 └── data
     └── Sample-Superstore.csv
