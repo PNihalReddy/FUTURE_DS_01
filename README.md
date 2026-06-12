@@ -2,23 +2,17 @@
 
 ## 📌 Internship Task
 
-**Organization:** Future Interns
-**Track:** Data Science & Analytics (DS)
+**Organization:** Future Interns  
+**Track:** Data Science & Analytics (DS)  
 **Task:** Business Sales Performance Analytics
 
 ---
 
 ## 📖 Project Overview
 
-This project analyzes business sales data to identify:
+This project analyzes business sales data to identify revenue trends, product performance, category-wise profitability, and regional sales patterns.
 
-* Revenue trends over time
-* Top-selling products
-* Category-wise performance
-* Regional performance
-* Business growth opportunities
-
-The project combines **Python** for data cleaning and exploratory analysis with **Power BI** for interactive dashboard creation and visualization.
+The analysis combines **Python** for data cleaning and exploratory analysis with **Power BI** for interactive dashboard development and business visualization. The objective is to generate actionable insights that can help businesses improve decision-making, optimize product strategies, and drive revenue growth.
 
 ---
 
@@ -60,6 +54,21 @@ The dataset contains information about:
 * Profit
 * Discounts
 
+### Dataset Summary
+
+* Total Sales: **$2.30M**
+* Total Profit: **$286.40K**
+* Total Orders: **5,009**
+* Total Customers: **793**
+
+---
+
+## 📊 Dashboard Preview
+
+### Complete Dashboard
+
+[![Dashboard](screenshots/Full%20Dashboard.png)](screenshots/Full%20Dashboard.png)
+
 ---
 
 ## 📈 Key Findings
@@ -81,13 +90,11 @@ The dataset contains information about:
 * **East Region** was the second-best performing region.
 * **Central Region** lagged behind in profitability.
 
-### Top Products
+### Product Analysis
 
-The highest revenue-generating products included:
-
-1. Canon imageCLASS 2200 Advanced Copier
-2. Fellowes PB500 Electric Punch Plastic Comb Binding Machine
-3. Cisco TelePresence System EX90 Videoconferencing Unit
+* High-value products contributed significantly to overall revenue.
+* Canon imageCLASS 2200 Advanced Copier was the highest revenue-generating product.
+* A small group of products accounted for a large share of total sales.
 
 ---
 
@@ -98,6 +105,7 @@ The highest revenue-generating products included:
 * Replicate successful sales strategies used in the West Region.
 * Ensure sufficient inventory for top-performing products.
 * Focus marketing efforts on high-margin product categories.
+* Monitor regional performance regularly to identify growth opportunities.
 
 ---
 
@@ -122,7 +130,7 @@ FUTURE_DS_01
 │
 ├── screenshots
 │   ├── category_details.png
-│   ├── full_dashboard.png
+│   ├── Full Dashboard.png
 │   ├── key_statistics.png
 │   ├── region_details.png
 │   └── slicers.png
